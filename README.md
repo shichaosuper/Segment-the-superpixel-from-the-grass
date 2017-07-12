@@ -23,7 +23,7 @@ bash
 python tools.py --image test_image.jpg
 ```
 
-   where test_image.jpg is the input image
+   where test_image.jpg is the input image, test_image.csv should also be in the same folder.
 
 2. it will output two files:
 
